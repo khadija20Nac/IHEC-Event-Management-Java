@@ -1,11 +1,11 @@
-IHEC Event & Room Booking Management System
+## IHEC Event & Room Booking Management System
 
 Java | OOP | MVC | UML
 
 Application Java développée dans le cadre du module de Programmation Orientée Objet (POO).
 Ce projet permet de gérer les événements universitaires et la réservation des salles à l’IHEC Carthage, avec un système de validation et de prévention des conflits.
 
-##Fonctionnalités principales
+## Fonctionnalités principales
 
 Authentification des utilisateurs
 
@@ -31,7 +31,7 @@ Architecture MVC
 
 Modélisation UML complète
 
- Technologies utilisées
+## Technologies utilisées
 
 Java
 
